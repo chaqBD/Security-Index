@@ -1,0 +1,7 @@
+su_output/cache/
+su_output/*.zip
+SU_outputs_*.zip
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.claude/
